@@ -1,0 +1,53 @@
+h2
+{
+    font-family:'Lobster', cursive ;
+    text-align: center;
+}
+
+#blue
+{
+    position: absolute;
+    color: blue;
+    height: 80%;
+    width: 8%;
+    border-style: solid;
+    background-color: blue;
+    float: left;
+    left: 30%;
+    
+}
+
+#green
+{
+    position: absolute;
+    color: forestgreen;
+    height: 80%;
+    width: 8%;
+    border-style: solid;
+    background-color: forestgreen;
+    float: left;
+    left: 40%;
+    
+}
+#pink
+{
+    position: absolute;
+    color: hotpink;
+    height: 80%;
+    width: 8%;
+    border-style: solid;
+    background-color: hotpink;
+    float: left;
+    left: 50%;
+}
+#yellow
+{
+    position: absolute;
+    color: orange;
+    height: 80%;
+    width: 8%;
+    border-style: solid;
+    background-color: orange;
+    float: left;
+    left: 60%;
+}
