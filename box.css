@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+#top
+{
+    position: absolute;
+    left: 0%;
+    bottom: 30%;
+    color: darkturquoise;
+    background-color:blueviolet ;
+    border-style: solid;
+    width: 30%;
+    height: 50%;
+    margin-left: 25%;
+    padding-left: 30%;
+}
+#bottom
+{
+
+    color: crimson;
+    background-color: darkorange;
+    border-style: solid;
+    width: 30%;
+    height: 50%;
+    margin-top: 30%;
+    margin-left: 25%;
+    padding-left: 30%;
+    
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
